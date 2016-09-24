@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animales</string>
+    <string name="app_name_zoologico">Zoologico</string>
+    <string name="text_app_id">App id: </string>
+    <string name="text_app_name">App version name: </string>
+    <string name="text_app_code">App version code: </string>
+    <string name="text_app_controller">Controller name: </string>
+
+    <string name="text_icon_descriptor">Imagen representativa del zoologico</string>
+</resources>

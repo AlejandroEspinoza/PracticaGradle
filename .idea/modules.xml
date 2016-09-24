@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animales.iml" filepath="$PROJECT_DIR$/Animales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimalesLibreria/AnimalesLibreria.iml" filepath="$PROJECT_DIR$/AnimalesLibreria/AnimalesLibreria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Veterinaria/Veterinaria.iml" filepath="$PROJECT_DIR$/Veterinaria/Veterinaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zoologico/Zoologico.iml" filepath="$PROJECT_DIR$/Zoologico/Zoologico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zoologico/app.iml" filepath="$PROJECT_DIR$/Zoologico/app.iml" />
+    </modules>
+  </component>
+</project>

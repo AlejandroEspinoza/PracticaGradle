@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+    <string name="app_title_pro">Version PRO</string>
+    <string name="app_title_demo">Version DEMO</string>
+    <string name="app_title_main">Version MAIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
